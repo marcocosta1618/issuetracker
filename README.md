@@ -1,3 +1,9 @@
-# Issue Tracker
+# Quality Assurance Projects
+## Issue Tracker
 
-This is the boilerplate for the Issue Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
+An Issue Tracker API. Second Quality Assurance project in the freeCodeCamp curriculum.
+
+---
+
+![EXPRESS](https://img.shields.io/badge/Express.js-fff.svg?&logo=Express&logoColor=000)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&logo=javascript&logoColor=black)&nbsp;
